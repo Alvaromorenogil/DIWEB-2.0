@@ -1,0 +1,8 @@
+.hijo {
+    border: inherit;
+}
+
+.padre {
+    color: green;
+    border: 1px solid red;
+}
