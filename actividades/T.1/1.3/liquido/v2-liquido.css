@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 96%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+#cabecera {
+    background-color: #eee;
+    padding: 5%;
+    margin: 10px;
+    text-align: center;
+}
+
+.columna1, .columna2, .columna3 {
+    background-color: #eee;
+    width: 30%;
+    margin: 1%;
+    text-align: center;
+    float: left;
+
+
+}
+
+#pie {
+    background-color: #eee;
+    padding: 2%;
+    margin: 10%;
+    clear: both;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    padding: 5px;
+}

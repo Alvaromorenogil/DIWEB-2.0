@@ -1,0 +1,45 @@
+td {
+    border: 5px red solid;
+    font-family: "Segoe UI";
+    color: blue;
+
+}
+
+body{
+    background-color: orange;
+    font-family: serif;
+    color: aqua;
+}
+
+p{
+    color: blue;
+}
+
+h1{
+    color: black;
+}
+
+h3{
+    color: green;
+}
+
+div{
+    color: black;
+}
+
+.box p {
+    color: red;
+}
+
+.a {
+    display: contents;
+    border: 1px solid red;
+    background-color: lightgrey;
+    padding: 10px;
+    width: 200px;
+  }
+  .b {
+    border: 1px solid blue;
+    background-color: lightblue;
+    padding: 10px;
+  }

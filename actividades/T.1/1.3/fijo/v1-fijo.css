@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#cabecera {
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+#pie {
+    background-color: #eee;
+    padding: 10px;
+    margin: 10px;
+    clear: both;
+    text-align: center;
+}
+
+.columna1, .columna2, .columna3 {
+    background-color: #eee;
+    width: 30%;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+li {
+    display: inline;
+    padding: 5px;
+}
