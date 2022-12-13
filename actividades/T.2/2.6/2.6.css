@@ -1,0 +1,10 @@
+p {
+    font-size: 50px;
+    color: rgb(0, 255, 0);
+    opacity: 80%;
+    text-align: center;
+    border-top: dotted;
+    border-bottom: dotted;
+    border-width: medium;
+    border-radius: 15px;
+}
