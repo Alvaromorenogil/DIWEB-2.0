@@ -1,3 +1,39 @@
 body {
     background-color: #FAE800;
+    float: left;
 }
+
+.container {
+    column-count: 2;
+}
+
+.logo {
+    font-size: 40px;
+}
+
+.cesta {
+    border: 2px solid black;
+    background-color: rgb(255, 58, 58);
+    overflow-y: scroll;
+    margin-bottom: 3%;
+}
+
+.descripcion {
+    text-align: center;
+    column-count: 2;
+}
+
+#left {
+    height: 100%;
+    position: absolute;
+}
+
+#right {
+    height: 100%;
+    position: absolute;
+    right: 0;
+    margin-right: 3%;
+}
+
+
+
